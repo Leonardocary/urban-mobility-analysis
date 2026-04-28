@@ -38,6 +38,7 @@ The goal is to identify patterns that can support decision-making in urban infra
 ---
 
 ## ▶️ How to Run
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/urban-mobility-analysis.git
+
+1. Download or clone this repository
+2. Open the notebook using Jupyter Notebook or Google Colab
+3. Run the cells step by step
